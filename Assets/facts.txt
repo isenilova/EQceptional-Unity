@@ -1,0 +1,30 @@
+{"facts":[
+
+"Emotional and social skills are four times more important than IQ when considering success and prestige in professional settings.",
+"Not only do children learn how to distinguish emotions in themselves and others, they learn how to experience and react to emotions and channel their natural temperaments.",
+"Through limbic resonance, our bodies feel other peoples emotions.",
+"Emotions guide every decision we make.",
+"Research on liking, alertness and confidence indicate that people change attitudes and responses based on changes in their bodies.",
+"We may not show an emotion, but the fact that our bodies secrete hormones and we are interpreting the world around us causes us to perceive the world, assess it and experience a sensation –feel an emotion.",
+"How we respond to other people and events in our lives often determines how people respond to us. The course of our lives often depends on our level of emotional intelligence.",
+"Mind, body, language and emotion are all tied together. The mind-body connection is nothing new. However, research on the effect of emotions on the body is intriguing.",
+"Emotions predispose us to act in particular ways. If we are angry, we see the world in a way that reinforces that anger and causes us to act differently than if we are fearful, sad or deliriously happy.",
+"Emotional intelligence can be learned. Through a process called plasticity, the brain changes as individuals practice new emotional intelligence strategies.",
+"Being empathetic means you understand and feel others emotions. However, empathy can be misused too. While being an empathetic person is a valuable trait, it is only one skill.",
+"Emotional intelligence or EI is one of the most sought skills that keep us engaged and help us solve problems, not only our own but of those around us too.",
+"Although emotional intelligence is good for problem-solving, there is not a guarantee that every leader has a higher intelligence.",
+"Many factors influence your emotions and others emotions too. When it comes to understanding emotions and feelings, we do not have much time to do so.",
+"Our mind, body, and hearts are tied to each other whether we like to believe it or not. What we do with our bodies ultimately affects our minds and heart.",
+"Higher EQ means higher levels of empathy, better communication skills, increased social skills, better stress management, better teamwork, leadership, and assertiveness.",
+"Most of the survey respondents said that they would be more likely to promote someone who displayed high emotional intelligence rather than someone with a high IQ.",
+"Emotions provide people with focus and motivate them to action. Joy, for example, can be a sign that we should pursue something. Anger can give us the energy to overcome an obstacle.",
+"A core part of emotional intelligence is self-awareness. Someone with a high EQ will still feel emotions, but they are less likely to be led into negative activities or situations because of them.",
+"You can vastly improve your EQ. Some people will be naturally more emotionally intelligent than others, but we can all improve these soft skills with the right coaching, advice, and practice.",
+"Emotional intelligence was discovered to be the most powerful predictor of performance, leadership, and personal growth, beating off more than 30 other indicators.",
+"According to Travis Bradberry, author of Emotional Intelligence 2.0, people who have a high degree of EQ make an average of almost $30 000 more per year compared to those with low emotional intelligence.",
+"Goleman: 90% of difference between star performers and average performers was attributable to EQ.",
+"Without EQ, a person with high IQ, great experience and smart ideas will not be a great leader."
+
+
+
+]}
