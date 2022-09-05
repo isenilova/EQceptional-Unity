@@ -55,7 +55,10 @@ public class CalculateCustom : MonoBehaviour
 
     }
 
-
+    private void OnEnable()
+    {
+        CalcCommon();
+    }
 
     public void CalcCommon() {
 
@@ -115,7 +118,7 @@ public class CalculateCustom : MonoBehaviour
 
 
             if (i < mm.Count)
-                myFields[i].GetComponent<Text>().text = mm[i].lable + " " + mm[i].num.ToString();
+                myFields[i].GetComponent<Text>().text = mm[i].lable + ": " + mm[i].num.ToString();
 
             else myFields[i].GetComponent<Text>().text = "no emotion";
 

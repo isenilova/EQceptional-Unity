@@ -66,7 +66,7 @@ public class LoadDiary : MonoBehaviour
         ob.transform.GetChild(3).gameObject.GetComponent<Text>().text = emo.discription;
 
         transform.GetComponent<RectTransform>().sizeDelta = new Vector2(transform.GetComponent<RectTransform>().sizeDelta.x,
-           transform.GetComponent<RectTransform>().sizeDelta.y + 350f);
+           transform.GetComponent<RectTransform>().sizeDelta.y + 250f);
 
         ob.transform.GetChild(2).gameObject.GetComponent<Image>().overrideSprite = emoPic[FindMax(emo)];
 

@@ -20,6 +20,8 @@ public class TabsOnePage : MonoBehaviour
 
     public bool dops = true;
 
+    public GameObject[] myDopObj;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -51,9 +53,11 @@ public class TabsOnePage : MonoBehaviour
 
                 if (dops)
                 {
-                    myPages[i].transform.GetChild(0).gameObject.SetActive(true);
-                    myPages[i].transform.GetChild(1).gameObject.SetActive(false);
-                    myPages[i].transform.GetChild(0).GetChild(0).gameObject.GetComponent<GoBigSmall>().myScale();
+
+
+                    //myPages[i].transform.GetChild(0).gameObject.SetActive(true);
+                    //myPages[i].transform.GetChild(1).gameObject.SetActive(false);
+                    //myPages[i].transform.GetChild(0).GetChild(0).gameObject.GetComponent<GoBigSmall>().myScale();
                 }
 
             }
