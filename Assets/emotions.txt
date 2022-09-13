@@ -10,7 +10,7 @@
 {"emotion":"depressed","type":[3,0,0,0,0,0]},
 {"emotion":"furious","type":[0,0,0,3,0,0]},
 {"emotion":"grief","type":[3,0,0,0,0,0]},
-{"emotion":"ecstacy","type":[0,0,3,0,0,0]},
+{"emotion":"ecstasy","type":[0,0,3,0,0,0]},
 {"emotion":"terror","type":[0,3,0,0,0,0]},
 {"emotion":"remorse","type":[1,0,0,0,1,0]},
 {"emotion":"optimism","type":[0,0,1,0,0,1]},

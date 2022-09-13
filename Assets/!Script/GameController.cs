@@ -63,5 +63,19 @@ public class GameController : MonoBehaviour
 
     }
 
+    public static void ChangeScore(int addval = -1) {
 
+        if (addval != -1)
+        {
+
+            playerparams.curBalance += addval;
+
+        }
+        else playerparams.curBalance = 0;
+
+
+
+        Save();
+    
+    }
 }

@@ -20,6 +20,8 @@ public class GameParams
 
     public string nearlogin = "";
 
+    public int curBalance = 0;
+
     //public bool pushStat = true;
 
 
